@@ -1,1 +1,2 @@
 Booting. Booting is the operating system process of starting a computer. It can be started by pushing a power button on your computer or a command. A boot sequence is the initial set of operations that the computer performs when it is switched on.
+Memory management. Different programs and data are executed because of the operating system. The operating system keeps programs from combining with one another. Without memory management the computer cannot function properly. 
